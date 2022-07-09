@@ -1,7 +1,4 @@
 # WhatsAppMusic
-WhatsApp bot that send you music from YouTube by request
-
-# WhatsAppMusic
 
 **Created by Liam Mizrahi**.
 
